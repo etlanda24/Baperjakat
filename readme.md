@@ -1,3 +1,27 @@
+# Project SI Baperjakat
+
+# Dashboard
+![alt text](https://raw.githubusercontent.com/etlanda24/onlinestore/master/bp1.png)
+
+# Data Pegawai
+![alt text](https://raw.githubusercontent.com/etlanda24/onlinestore/master/bp2.png)
+
+# Tambah Data
+![alt text](https://raw.githubusercontent.com/etlanda24/onlinestore/master/bp3.png)
+
+# Surat
+![alt text](https://raw.githubusercontent.com/etlanda24/onlinestore/master/bp4.png)
+
+
+
+
+
+
+
+
+
+
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
