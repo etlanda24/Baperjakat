@@ -1,16 +1,16 @@
 # Project SI Baperjakat
 
 # Dashboard
-![alt text](https://raw.githubusercontent.com/etlanda24/onlinestore/master/bp1.png)
+![alt text](https://raw.githubusercontent.com/etlanda24/Baperjakat/master/bp1.png)
 
 # Data Pegawai
-![alt text](https://raw.githubusercontent.com/etlanda24/onlinestore/master/bp2.png)
+![alt text](https://raw.githubusercontent.com/etlanda24/Baperjakat/master/bp2.png)
 
 # Tambah Data
-![alt text](https://raw.githubusercontent.com/etlanda24/onlinestore/master/bp3.png)
+![alt text](https://raw.githubusercontent.com/etlanda24/Baperjakat/master/bp3.png)
 
 # Surat
-![alt text](https://raw.githubusercontent.com/etlanda24/onlinestore/master/bp4.png)
+![alt text](https://raw.githubusercontent.com/etlanda24/Baperjakat/master/bp4.png)
 
 
 
